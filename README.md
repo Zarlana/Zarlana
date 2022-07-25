@@ -1,5 +1,5 @@
 
-### Hi there 👋, my name is Lana ![](https://komarev.com/ghpvc/?username=zarlana)
+### Hi there 👋, my name is Lana ukrainian woman living in Germany ![](https://komarev.com/ghpvc/?username=zarlana)
 #### I am an IT student 💻 at the beginning of my journey into front-end development 
 - Currently learning 🌱 HTML, CSS and JavaScript:
 
